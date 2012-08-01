@@ -1,13 +1,14 @@
-#Markdown stduy
+# Markdown stduy
 
 horizontal rule
+
 ---
 
 list:
 
 *   red	
 *   green	
-*   blue
+*   blue	
 
   sample code:
 
